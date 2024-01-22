@@ -3,7 +3,7 @@
 title: Yuan Yang
 
 # Name pronunciation (optional)
-name_pronunciation: Yuan Yang
+name_pronunciation: yü-en yahng
 
 # Full name (for SEO)
 first_name: Yuan
@@ -17,21 +17,21 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Stony Brook University
+    url: https://www.stonybrook.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include air pollution, cognition aging, longitudinal analysis
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Mental Health & Aging
+  - Cognitive Reserve & Education
+  - PM 2.5 & Occupational Health
 
 # Education to show in About widget
 education:
